@@ -1,0 +1,98 @@
+.banner{
+    background-image: url("../img/banner-eps-sura-sistema-de-salud.jpg");
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+    background-size: cover;
+}
+header{
+    background-color: rgba(227, 224, 221, 0.723);
+    
+    width: 100%;
+    height: 50PX;
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    margin-top: 5px;
+    margin-left: 0px;
+    width: 800px;
+}
+.logon{
+    width: 5rem;
+    height: 5rem;
+    margin-top: -1.5rem;
+    margin-left: 12px;
+}
+.menu{
+    margin-top: 12px;
+}
+.lista{
+    list-style: none;
+    
+}
+.item{
+    color: #0799d4;
+    padding-right: 2rem;
+    font-weight: 700;
+    height: 50px;
+    float: left;
+    cursor: pointer;
+}
+.item:hover{
+    color: #0033a0;
+    padding-left: 1rem;
+}
+.bannerMovilidad{
+    background-image: url("../img/solucion-de-movilidad.jpg");
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+    background-size: cover;
+}
+.bannerCreadores{
+    background-image: url("../img/banneracerda\ de.jpg");
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+    background-size: cover;
+}
+h1{
+    font-family: "Freeman", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+    color: #0799d4;
+}
+p{
+    font-family: "Inter", sans-serif;
+    
+    color: #0033a0;
+}
+h3{
+    font-family: "Freeman", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    color: #0033a0;
+}
+.foto{
+    height: 250px;
+    border-radius: 100%;
+}
+.foto:hover{
+    rotate: 10deg;
+}
+.imagenes{
+    margin-top: 600px;
+    
+}
+h2{
+    font-family: "Freeman", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #0799d4;
+}
+.footer{
+    background-color: #0033a0;
+    color: #0799d4;
+}
